@@ -8,3 +8,8 @@ Automate provision of an Application stack running load balancer, web server and
 Include service monitoring in the automation
 Automate service-fail-over, e.g. auto-restart of failing service
 Document the steps in git history and commit your Infrastructure-as-a-code in the git repo
+
+
+The task was completed with Terraform which provisions a AWS cluster with all resources needed to have an nginx server, a mysql database, a load balancer running and metrics installed.
+
+***For short instructions please read the Instructions Readme.txt in the Repository.
